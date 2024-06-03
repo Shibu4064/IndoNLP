@@ -170,7 +170,7 @@ def model(X_train, y_train, X_test, y_test, exp):
     res = helper.printResult(exp,o,f)
     print(res)
 
-    print("                                Micro               #               Fake                ")
+    print("                                Macro               #               Fake                ")
     print("                   precision    recall      f1-score  #  precision    recall      f1-score")
     res = helper.printResult(exp,om,f)
     print(res)
