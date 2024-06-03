@@ -15,8 +15,8 @@ def getResult(y_test, y_pred):
     overall = {"Accuracy": metrics.accuracy_score(y_test, y_pred), "recall": metrics.recall_score(y_test, y_pred),
                "f1-score": metrics.f1_score(y_test, y_pred), "precision": metrics.precision_score(y_test, y_pred) }
     
-    overallmicro = {"Accuracy": metrics.accuracy_score(y_test, y_pred), "recall": metrics.recall_score(y_test, y_pred, average='micro'),
-               "f1-score": metrics.f1_score(y_test, y_pred, average='micro'), "precision": metrics.precision_score(y_test, y_pred, average='micro') }
+    overallmacro = {"Accuracy": metrics.accuracy_score(y_test, y_pred), "recall": metrics.recall_score(y_test, y_pred, average='macro'),
+               "f1-score": metrics.f1_score(y_test, y_pred, average='macro'), "precision": metrics.precision_score(y_test, y_pred, average='macro') }
 
     return true, fake, overall, overallmicro
 
