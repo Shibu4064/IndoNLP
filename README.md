@@ -4,4 +4,4 @@
 <h3>The following link is directed to our BanFakeNews-2.0 dataset which is uploaded in Kaggle platform. We have annotated our authentic news as 1 and fake news as 0</h3>
 <href>https://www.kaggle.com/datasets/hrithikmajumdar/bangla-fake-news</href>
 <h3>The doi link for the BanFakeNews-2.0 dataset is given below which we have published in the Mendeley which is a dataset sharing platform.</h3>
-<href>10.17632/kjh887ct4j.1</href>
+<href>https://data.mendeley.com/datasets/kjh887ct4j/1</href>
