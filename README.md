@@ -5,3 +5,19 @@
 <href>https://www.kaggle.com/datasets/hrithikmajumdar/bangla-fake-news</href>
 <h3>The doi link for the BanFakeNews-2.0 dataset is given below which we have published in the Mendeley which is a dataset sharing platform.</h3>
 <href>https://data.mendeley.com/datasets/kjh887ct4j/1</href>
+
+<h3>BERT model training notebooks of Table: 3</h3>
+<p>These notebooks have the following naming convention: "training with FakeNews <model_name>.ipynb"</p>
+
+<h3>Training SVM with Embedding features and All Features notebook of Table: 3</h3>
+<p>Embedding feature notebook name: "Fasttext_svm.ipynb"</p>
+<p>All features notebook name: "all-features-svm-c-1-degree-3.ipynb"</p>
+
+<h3>BLOOM and Phi-3 mini training notebook of Table: 3</h3>
+<p>BLOOM notebook name: "bloom-banfakenews1 (1).ipynb"</p>
+<p>Phi-3 mini notevook name: "phi3-mini-banfakenews2.xpynb"</p>
+
+<h3>Table: 4 notebook name descriptions</h3>
+<o>"Banfakenews1" represents BanFakeNews Dataset</p>
+<o>"Banfakenews2" represents BanFakeNews-2.0 Dataset</p>
+<o>"nenews" represents tested with external Dataset</p>
