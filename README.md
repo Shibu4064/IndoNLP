@@ -11,20 +11,25 @@
 <h4>Basic Experiments</h4>
 <ul type=disk>
 <li>Go to FakeNews-master/Models/Basic folder</li>
-* Use **python n-gram.py [Experiment Name] [Model] [-s](optional)** to run an experiment. For example: `python n-gram.py Emb_F SVM -s` will run the Emb_F experiment using SVM Model. Use -s to Save the results. 
-* **Experiment Names** (Please follow the paper to read the details about experiments) : 
-    * Unigram
-    * Bigram
-    * Trigram
-    * U+B+T
-    * C3-gram
-    * C4-gram
-    * C5-gram
-    * C3+C4+C5
-    * Embedding
-    * all_features
-* Models:
-    * SVM (Support Vector Machine)
+<li>Use <b>python n-gram.py [Experiment Name] [Model] [-s](optional)</b> to run an experiment. For example: `python n-gram.py Emb_F SVM -s` will run the Emb_F experiment using SVM Model. Use -s to Save the results. 
+<h4>Experiment Names</h4>(Please follow the paper to read the details about experiments) : 
+   <ul type=star> 
+   <li>Unigram</li>
+    <li>Bigram</li>
+    <li>Trigram</li>
+    <li>U+B+T</li>
+    <li>C3-gram</li>
+    <li>C4-gram</li>
+    <li>C5-gram</li>
+    <li>C3+C4+C5</li>
+    <li>Embedding</li>
+    <li>all_features</li>
+   </ul>
+<h4>Models</h4>
+    <ul type=star>
+       <li>SVM (Support Vector Machine)</li>
+    </ul>
+</ul>
 
 <h3>BERT model training notebooks of Table: 3</h3>
 <p>These notebooks have the following naming convention: "training with FakeNews <model_name>.ipynb"</p>
