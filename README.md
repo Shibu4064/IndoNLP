@@ -14,7 +14,7 @@
 <li>Use <b>python n-gram.py [Experiment Name] [Model] [-s](optional)</b> to run an experiment. For example: `python n-gram.py Emb_F SVM -s` will run the Emb_F experiment using SVM Model. Use -s to Save the results. 
 <h4>Experiment Names</h4>(Please follow the paper to read the details about experiments) : 
    <ul type=star> 
-   <li>Unigram</li>
+    <li>Unigram</li>
     <li>Bigram</li>
     <li>Trigram</li>
     <li>U+B+T</li>
