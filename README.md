@@ -15,7 +15,7 @@
 
 <h3>BLOOM and Phi-3 mini training notebook of Table: 3</h3>
 <p>BLOOM notebook name: "bloom-banfakenews1 (1).ipynb"</p>
-<p>Phi-3 mini notevook name: "phi3-mini-banfakenews2.xpynb"</p>
+<p>Phi-3 mini notebook name: "phi3-mini-banfakenews2.xpynb"</p>
 
 <h3>Table: 4 notebook name descriptions</h3>
 <o>"Banfakenews1" represents BanFakeNews Dataset</p>
