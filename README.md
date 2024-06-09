@@ -8,6 +8,21 @@
 
 <h3>Traditional Linguistic Features with SVM:</h3>
 <p>In the FakeNews-master folder , we have actually experimented our classical machine learning model(SVM) preprocessed with linguistic features named as Unigram, Bigram, Trigram and C3, C4 and C5 gram.</p>
+* Go to FakeNews-master/Models/Basic folder
+* Use **python n-gram.py [Experiment Name] [Model] [-s](optional)** to run an experiment. For example: `python n-gram.py Emb_F SVM -s` will run the Emb_F experiment using SVM Model. Use -s to Save the results. 
+* **Experiment Names** (Please follow the paper to read the details about experiments) : 
+    * Unigram
+    * Bigram
+    * Trigram
+    * U+B+T
+    * C3-gram
+    * C4-gram
+    * C5-gram
+    * C3+C4+C5
+    * Embedding
+    * all_features
+* Models:
+    * SVM (Support Vector Machine)
 
 <h3>BERT model training notebooks of Table: 3</h3>
 <p>These notebooks have the following naming convention: "training with FakeNews <model_name>.ipynb"</p>
