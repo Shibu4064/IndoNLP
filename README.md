@@ -7,7 +7,7 @@
 <href>https://data.mendeley.com/datasets/kjh887ct4j/1</href>
 
 <h3>Traditional Linguistic Features with SVM:</h3>
-<p>In the fake news master folder , we have actually experimented our classical machine learning model(SVM) preprocessed with linguistic features named as Unigram, Bigram, Trigram and C3, C4 and C5 gram.</p>
+<p>In the FakeNews-master folder , we have actually experimented our classical machine learning model(SVM) preprocessed with linguistic features named as Unigram, Bigram, Trigram and C3, C4 and C5 gram.</p>
 
 <h3>BERT model training notebooks of Table: 3</h3>
 <p>These notebooks have the following naming convention: "training with FakeNews <model_name>.ipynb"</p>
