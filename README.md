@@ -45,4 +45,4 @@
 <h3>Table: 4 notebook name descriptions</h3>
 <o>"Banfakenews1" represents BanFakeNews Dataset</p>
 <o>"Banfakenews2" represents BanFakeNews-2.0 Dataset</p>
-<o>"newnews" represents tested with external Dataset</p>
+<o>"Newnews" represents tested with external Dataset</p>
