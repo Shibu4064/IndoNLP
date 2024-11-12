@@ -40,6 +40,8 @@
 
 <h3>BLOOM and Phi-3 mini training notebook of Table: 3</h3>
 <p>BLOOM notebook name: "bloom-banfakenews1 (1).ipynb"</p>
+
+<h3>The main dataset is splitted into train, test and validation sets which is under the dataset folder.</h3>
 <p>Phi-3 mini notebook name: "phi3-mini-banfakenews2.xpynb"</p>
 
 <h3>Table: 4 notebook name descriptions</h3>
