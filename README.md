@@ -6,6 +6,8 @@
 <h3>The doi link for the BanFakeNews-2.0 dataset is given below which we have published in the Mendeley which is a dataset sharing platform.</h3>
 <href>https://data.mendeley.com/datasets/kjh887ct4j/1</href> -->
 
+<h3>The main dataset is splitted into train, test and validation sets which is under the dataset folder.</h3>
+
 <h3>Traditional Linguistic Features with SVM:</h3>
 <p>In the FakeNews-master folder , we have actually experimented our classical machine learning model(SVM) preprocessed with linguistic features named as Unigram, Bigram, Trigram and C3, C4 and C5 gram.</p>
 <h4>Basic Experiments</h4>
@@ -41,7 +43,6 @@
 <h3>BLOOM and Phi-3 mini training notebook of Table: 3</h3>
 <p>BLOOM notebook name: "bloom-banfakenews1 (1).ipynb"</p>
 
-<h3>The main dataset is splitted into train, test and validation sets which is under the dataset folder.</h3>
 <p>Phi-3 mini notebook name: "phi3-mini-banfakenews2.xpynb"</p>
 
 <h3>Table: 4 notebook name descriptions</h3>
