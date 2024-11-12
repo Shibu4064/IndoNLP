@@ -6,7 +6,7 @@
 <h3>The doi link for the BanFakeNews-2.0 dataset is given below which we have published in the Mendeley which is a dataset sharing platform.</h3>
 <href>https://data.mendeley.com/datasets/kjh887ct4j/1</href> -->
 
-<h3>The main dataset is splitted into train, test and validation sets which is under the dataset folder.</h3>
+<h3>The main dataset, BanFakeNews-2.0 is splitted into train, test and validation sets which is under the dataset folder. Moreover, the new test dataset for rigorous evaluation consisting 460 Fake news and 540 Real news articles is named as New_Test_Dataset.csv in the main folder.</h3>
 
 <h3>Traditional Linguistic Features with SVM:</h3>
 <p>In the FakeNews-master folder , we have actually experimented our classical machine learning model(SVM) preprocessed with linguistic features named as Unigram, Bigram, Trigram and C3, C4 and C5 gram.</p>
