@@ -1,10 +1,11 @@
 # IndoNLP-2024
 <h1>From Scarcity to Capability: Empowering Fake News Detection in Low-Resource Languages with LLMs</h1>
 <p> The rapid spread of fake news presents a significant global challenge, particularly in low-resource languages like Bangla, which lack adequate datasets and detection tools. Although manual fact-checking is accurate, it is expensive and slow to prevent the dissemination of fake news. Addressing this gap, we introduce BanFakeNews-2.0, a robust dataset to enhance Bangla fake news detection. This version includes 11,700 additional, meticulously curated fake news articles validated from credible sources, creating a proportional dataset of 47,000 authentic and 13,000 fake news items across 13 categories. In addition, we created a manually curated independent test set of 460 fake and 540 authentic news items for rigorous evaluation. We invest efforts in collecting fake news from credible sources and manually verified while preserving the linguistic richness. We develop a benchmark system utilizing transformer-based architectures, including fine-tuned Bidirectional Encoder Representations from Transformers variants (F1-87%) and Large Language Models with Quantized Low-Rank Approximation (F1-89%), that significantly outperforms traditional methods. BanFakeNews-2.0 offers a valuable resource to advance research and application in fake news detection for low-resourced languages. </p>
-<!-- <h3>The following link is directed to our BanFakeNews-2.0 dataset which is uploaded in Kaggle platform. We have annotated our authentic news as 1 and fake news as 0</h3>
+
+<h3>The following link is directed to our BanFakeNews-2.0 dataset which is uploaded in Kaggle platform. We have annotated our authentic news as 1 and fake news as 0</h3>
 <href>https://www.kaggle.com/datasets/hrithikmajumdar/bangla-fake-news</href>
 <h3>The doi link for the BanFakeNews-2.0 dataset is given below which we have published in the Mendeley which is a dataset sharing platform.</h3>
-<href>https://data.mendeley.com/datasets/kjh887ct4j/1</href> -->
+<href>https://data.mendeley.com/datasets/kjh887ct4j/1</href>
 
 <h3>The main dataset, BanFakeNews-2.0 is splitted into train, test and validation sets which is under the dataset folder. Moreover, the new test dataset for rigorous evaluation consisting 460 Fake news and 540 Real news articles is named as New_Test_Dataset.csv in the main folder.</h3>
 
