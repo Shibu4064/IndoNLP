@@ -50,3 +50,29 @@
 <o>"Banfakenews1" represents BanFakeNews Dataset</p>
 <o>"Banfakenews2" represents BanFakeNews-2.0 Dataset</p>
 <o>"Newnews" represents tested with external Dataset</p>
+
+## Citation
+
+If you use this code or BanFakeNews-2.0 dataset in your work, please cite the following paper:
+```
+@inproceedings{shibu-etal-2025-scarcity,
+    title = "From Scarcity to Capability: Empowering Fake News Detection in Low-Resource Languages with {LLM}s",
+    author = "Shibu, Hrithik Majumdar  and
+      Datta, Shrestha  and
+      Miah, Md. Sumon  and
+      Sami, Nasrullah  and
+      Chowdhury, Mahruba Sharmin  and
+      Islam, Md Saiful",
+    editor = "Weerasinghe, Ruvan  and
+      Anuradha, Isuri  and
+      Sumanathilaka, Deshan",
+    booktitle = "Proceedings of the First Workshop on Natural Language Processing for Indo-Aryan and Dravidian Languages",
+    month = jan,
+    year = "2025",
+    address = "Abu Dhabi",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.indonlp-1.12/",
+    pages = "100--107",
+    abstract = "The rapid spread of fake news presents a significant global challenge, particularly in low-resource languages like Bangla, which lack adequate datasets and detection tools. Although manual fact-checking is accurate, it is expensive and slow to prevent the dissemination of fake news. Addressing this gap, we introduce BanFakeNews-2.0, a robust dataset to enhance Bangla fake news detection. This version includes 11,700 additional, meticulously curated fake news articles validated from credible sources, creating a proportional dataset of 47,000 authentic and 13,000 fake news items across 13 categories. In addition, we created a manually curated independent test set of 460 fake and 540 authentic news items for rigorous evaluation. We invest efforts in collecting fake news from credible sources and manually verified while preserving the linguistic richness. We develop a benchmark system utilizing transformer-based architectures, including fine-tuned Bidirectional Encoder Representations from Transformers variants (F1-87{\%}) and Large Language Models with Quantized Low-Rank Approximation (F1-89{\%}), that significantly outperforms traditional methods. BanFakeNews-2.0 offers a valuable resource to advance research and application in fake news detection for low-resourced languages. We publicly release our dataset and model on GitHub to foster research in this direction."
+}
+```
